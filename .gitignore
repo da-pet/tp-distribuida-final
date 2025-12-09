@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+
+APRESENTACAO.md
+ESTUDO.md
+
